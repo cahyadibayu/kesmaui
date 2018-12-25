@@ -1,0 +1,8 @@
+echo "# kesmaui" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/cahyadibayu/kesmaui.git
+git push -u origin master
+
+FILE INI HANYA CONFIG UNTUK INTEGRATE GIT KE ATOM ABAIKAN SAJA
